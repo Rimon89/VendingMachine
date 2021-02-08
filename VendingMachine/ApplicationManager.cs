@@ -87,7 +87,7 @@ namespace VendingMachine
             AvailableProducts.Add(product);
             product = new Product("Snickers", 20, "Snack");
             AvailableProducts.Add(product);
-            product = new Product("Kex", 20, "Snack");
+            product = new Product("KitKat", 20, "Snack");
             AvailableProducts.Add(product);
 
         }
